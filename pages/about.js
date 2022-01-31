@@ -1,3 +1,9 @@
+import NavBar from "../components/NavBar";
+
 export default function sample() {
-  return "about us";
+  return (
+    <div>
+      <h1>about us</h1>
+    </div>
+  );
 }
